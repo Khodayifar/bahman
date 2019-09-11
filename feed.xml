@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>SEOsakht</title>
+    <link href="https://bahman.netlify.com/feed.xml" rel="self" />
+    <link href="https://bahman.netlify.com" />
+    <updated>۱۹۷۰-۰۱-۰۱T۰۳:۳۰:۰۰+۰۳:۳۰</updated>
+    <author>
+        <name>SEOsakht</name>
+    </author>
+    <id>https://bahman.netlify.com</id>
+
+</feed>

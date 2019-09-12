@@ -3,10 +3,30 @@
     <title>SEOsakht</title>
     <link href="https://bahman.netlify.com/feed.xml" rel="self" />
     <link href="https://bahman.netlify.com" />
-    <updated>۱۹۷۰-۰۱-۰۱T۰۳:۳۰:۰۰+۰۳:۳۰</updated>
+    <updated>۲۰۱۹-۰۹-۱۲T۱۶:۲۱:۱۴+۰۴:۳۰</updated>
     <author>
         <name>SEOsakht</name>
     </author>
     <id>https://bahman.netlify.com</id>
 
+    <entry>
+        <title>نخست</title>
+        <author>
+            <name>SEOsakht</name>
+        </author>
+        <link href="https://bahman.netlify.com/start.html"/>
+        <id>https://bahman.netlify.com/start.html</id>
+
+        <updated>۲۰۱۹-۰۹-۱۲T۱۶:۲۱:۰۵+۰۴:۳۰</updated>
+            <summary>
+                <![CDATA[
+                    نخست موعظه پیر معرفت این است که از مصاحب ناجنس احتراز کنید
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                نخست موعظه پیر معرفت این است که از مصاحب ناجنس احتراز کنید
+            ]]>
+        </content>
+    </entry>
 </feed>

@@ -3,7 +3,7 @@
     <title>SEOsakht</title>
     <link href="https://bahman.netlify.com/feed.xml" rel="self" />
     <link href="https://bahman.netlify.com" />
-    <updated>۲۰۱۹-۰۹-۱۲T۲۱:۱۲:۳۰+۰۴:۳۰</updated>
+    <updated>۲۰۱۹-۰۹-۱۲T۲۲:۴۸:۴۲+۰۴:۳۰</updated>
     <author>
         <name>SEOsakht</name>
     </author>
@@ -17,14 +17,16 @@
         <link href="https://bahman.netlify.com/start.html"/>
         <id>https://bahman.netlify.com/start.html</id>
 
-        <updated>۲۰۱۹-۰۹-۱۲T۱۶:۲۱:۰۵+۰۴:۳۰</updated>
+        <updated>۲۰۱۹-۰۹-۱۲T۲۲:۴۸:۳۶+۰۴:۳۰</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://bahman.netlify.com/media/posts/1/5.jpg" alt="تصویر گل" />
                     نخست موعظه پیر معرفت این است که از مصاحب ناجنس احتراز کنید
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://bahman.netlify.com/media/posts/1/5.jpg" alt="تصویر گل" />
                 نخست موعظه پیر معرفت این است که از مصاحب ناجنس احتراز کنید
             ]]>
         </content>

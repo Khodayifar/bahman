@@ -3,7 +3,7 @@
     <title>SEOsakht</title>
     <link href="https://bahman.netlify.com/feed.xml" rel="self" />
     <link href="https://bahman.netlify.com" />
-    <updated>2019-10-16T01:24:17+03:30</updated>
+    <updated>2019-10-16T01:25:38+03:30</updated>
     <author>
         <name>SEOsakht</name>
     </author>
@@ -17,17 +17,18 @@
         <link href="https://bahman.netlify.com/start.html"/>
         <id>https://bahman.netlify.com/start.html</id>
 
-        <updated>2019-09-12T22:48:36+04:30</updated>
+        <updated>2019-10-16T01:25:33+03:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bahman.netlify.com/media/posts/1/5.jpg" alt="تصویر گل" />
-                    نخست موعظه پیر معرفت این است که از مصاحب ناجنس احتراز کنید
+                    نخست موعظه پیر معرفت این است که از مصاحب ناجنس احتراز کنید پنهان خورید باده که تعزیر می‌کنند
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://bahman.netlify.com/media/posts/1/5.jpg" alt="تصویر گل" />
-                نخست موعظه پیر معرفت این است که از مصاحب ناجنس احتراز کنید
+                <p>نخست موعظه پیر معرفت این است که از مصاحب ناجنس احتراز کنید</p>
+<p>پنهان خورید باده که تعزیر می‌کنند</p>
             ]]>
         </content>
     </entry>
